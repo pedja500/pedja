@@ -1,0 +1,18 @@
+156,Jovana,Jovic,Uvod u operativne sisteme,10
+212,Marko,Markovic,Uvod u racunarstvo,10
+239,Ana,Jocic,Dizajn i analiza algoritama,9
+567,Aleksandra,Stojanovic,Uvod u baze podataka,6
+156,Jovana,Jovic,Matematika 2,8
+156,Jovana,Jovic,Diskretne strukrure 2,7
+156,Jovana,Jovic,Diskretne strukrure 1,8
+212,Marko,Markovic,Diskretne strukrure 1,9
+182,Novak,Novakovic,Uvod u baze podataka,7
+222,Neda,Peric,Dizajn i analiza algoritama,7
+212,Marko,Markovic,Uvod u baze podataka,9
+150,Pera,Peric,Matematika 1,6
+156,Jovana,Jovic,Matematika 1,10
+156,Jovana,Jovic,OOP1,9
+212,Marko,Markovic,OOP2,10
+456,Aleksa,Aleksic,OOP1,7
+567,Aleksandra,Stojanovic,OOP3,8
+
